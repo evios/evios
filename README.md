@@ -26,7 +26,7 @@ Deep in vibe-coding mode. Building AI-powered tools for compounding products.
 - [Autonomous Marketing Prompt Library](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) – AI-Automated Marketing Department. We fired our marketing team. This is what we're building instead.
 - [AiCMO AIO](https://github.com/AICMO/ai-cmo) – Open-Source AI SEO platform.
 - [AI-Agents](https://github.com/AICMO/AiCMO-AI-Agents) – Curated collection of practical AI agent use cases spanning multiple industries.
-- [AI-Posting Agent](https://github.com/AICMO/AiCMO-Content-As-A-Code) – Fully automated Social Posting using AI Chat assistant (Claude Code/Codex CLI).
+- [Content As A Code](https://github.com/AICMO/AiCMO-Content-As-A-Code) – Fully automated Social Posting using AI Chat assistant (Claude Code/Codex CLI).
 - [AI Prompts Collection](https://github.com/evios/AICMO-Prompt-Collection) – AI CMO Prompts Collection and Knowledge Base.
 
 
