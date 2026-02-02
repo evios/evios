@@ -22,9 +22,13 @@ Deep in vibe-coding mode. Building AI-powered tools for compounding products.
 
 
 ## Current Products/Projects
-- [Ender Turing](https://github.com/<you>/project-one) – one line description
-- [Project Two](https://github.com/<you>/project-two) – one line description
-- [Project Three](https://github.com/<you>/project-three) – one line description
+- [Autonomous AI Agent](https://github.com/evios/autonomous-agent-exp-2026-01) – A self-managing agent that autonomously and iteratively works toward a given goal without human participation.
+- [Autonomous Marketing Prompt Library](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) – AI-Automated Marketing Department. We fired our marketing team. This is what we're building instead.
+- [AiCMO AIO](https://github.com/AICMO/ai-cmo) – Open-Source AI SEO platform.
+- [AI-Agents](https://github.com/AICMO/AiCMO-AI-Agents) – Curated collection of practical AI agent use cases spanning multiple industries.
+- [AI-Posting Agent](https://github.com/AICMO/AiCMO-Content-As-A-Code) – Fully automated Social Posting using AI Chat assistant (Claude Code/Codex CLI).
+- [AI Prompts Collection](https://github.com/evios/AICMO-Prompt-Collection) – AI CMO Prompts Collection and Knowledge Base.
+
 
 ## Links
 - Website: https://enderturing.com
