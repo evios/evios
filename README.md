@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **evios/evios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm John John 👋
+# Hi, I'm John 👋
 
 Deep in vibe-coding mode. Building AI-powered tools for compounding products.
 
 
 ## Current Products and Projects
-- ⭐️ [Ender Turing](https://enderturing.com) - Comprehensive GenAI kit for Contact Centers. Speech Analytics and Auto Qaulity Assurance
+- ⭐️ [Ender Turing](https://enderturing.com) - Comprehensive GenAI kit for Contact Centers. Speech Analytics and Auto Quality Assurance.
 - 🤖 [Autonomous AI Agent](https://github.com/evios/autonomous-agent-exp-2026-01) – A self-managing agent that autonomously and iteratively works toward a given goal without human participation.
 - 📚 [Autonomous Marketing Prompt Library](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) – AI-Automated Marketing Department. We fired our marketing team. This is what we're building instead.
 - ⭐️ [AiCMO AIO](https://github.com/AICMO/ai-cmo) – Open-Source AI SEO platform.
